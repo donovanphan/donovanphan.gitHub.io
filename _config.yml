@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Donovan Phan"
+  name   : "Donovan Phan (He/Him)"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Current community college student."
 
