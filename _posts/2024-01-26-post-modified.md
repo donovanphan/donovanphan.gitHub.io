@@ -9,4 +9,4 @@ tags:
   - standard
 ---
 
-Happy Valentine's Day! 🥰
+Happy Valentine's Day! 
