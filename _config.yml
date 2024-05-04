@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "donovan phan (he/him)"
-  avatar : images/bio-photo.jpg
+  avatar : assets/images/bio-photo.jpg
   bio    : "current community college student."
 
 footer:
