@@ -1,5 +1,5 @@
 ---
-permalink: /about-me/
+permalink: /about/
 title: "About"
 ---
 
